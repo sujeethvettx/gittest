@@ -21,4 +21,3 @@ jobs:
           repo_token: "${{ secrets.TOKEN_GITHUB }}"
           automatic_release_tag: "latest"
           prerelease: true
-          title: "Development Build"
